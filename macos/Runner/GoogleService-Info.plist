@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDt2RBimY2weRoWa_Ntk-SIfJC2rXdzU7A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>601275560805</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.uberProjecto</string>
+	<key>PROJECT_ID</key>
+	<string>uber-5049e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uber-5049e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:601275560805:ios:7fe9ba8eb795a5aa3fe78c</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601275560805",
+    "firebase_url": "https://uber-5049e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uber-5049e",
+    "storage_bucket": "uber-5049e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601275560805:android:223e053235f79c753fe78c",
+        "android_client_info": {
+          "package_name": "com.example.uber_projecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601275560805-qpbt5a2crgsv5e0s49ddvjqmp2rom3ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVcxO9e-xPvXMYLMmc2PDGiavDUroVRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601275560805-qpbt5a2crgsv5e0s49ddvjqmp2rom3ua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601275560805-p3h62fkeo7369lcm4mv510ci1i35rgim.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uberProjecto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
